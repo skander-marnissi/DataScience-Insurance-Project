@@ -1,0 +1,11 @@
+tensorflow
+jupyter
+seaborn
+matplotlib
+networkx
+datetime
+sklearn
+IPython
+scipy
+re
+traceback

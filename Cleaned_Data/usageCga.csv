@@ -1,0 +1,18 @@
+﻿id;code Usage;lib Usage;ENABLED;CODE_STR
+776;1;Privé et professionnel;1;05
+777;2;Agricole1 véhicule dont le PTC < 3500 kg;1;05
+778;3;Agricole 2 véhicule dont le PTC > 3500 kg;1;05
+779;4;Agricole Tracteur et Moissonneuse Batteuse;1;05
+780;5;Utilitaire 1 véhicule dont le PTC < 3500 kg (y compris usage voirie);1;05
+781;6;Utilitaire 2 véhicule dont le PTC > 3500 kg (y compris voirie);1;05
+782;7;Transport public de marchandise (avec matière dangereuse et inflammable);1;05
+783;8;Transport public de voyageurs;1;05
+784;9;Transport privé de personnes (personnel / enfants /membre d’association);1;05
+785;10;Taxi;1;05
+786;11;Auto-Ecole;1;05
+787;12;Louage;1;05
+788;13;Transport Rural;1;05
+789;14;Agences de Voyage et Hôtels;1;05
+790;15;Location;1;05
+791;16;Engin de Chantiers;1;05
+792;17;autres usages (Ambulance / Corbillard / RC Garagiste / RC Trajet etc);1;05
